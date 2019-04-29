@@ -1,0 +1,13 @@
+.dev{
+    color: darkgreen;
+}
+#moni{
+    color: darkblue;
+}
+p{
+    background: bisque;
+    color: gold;
+}
+[disable]{
+    color: firebrick;
+}
